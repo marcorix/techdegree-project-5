@@ -1,8 +1,5 @@
 
-
 baguetteBox.run('.gallery');
-
-// const search = new Filter('search', 'data-caption');
 
 function filterSearch() {
     let input = document.getElementById("search");
